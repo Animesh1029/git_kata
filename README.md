@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # git_kata
 Testing Git and GitHub collaboration workflows.
 
