@@ -13,5 +13,4 @@ Testing Git and GitHub collaboration workflows.
 This repository is for testing Git workflows including 
 direct commits, feature branches, and pull requests.
 =======
-# Git Kata 2
->>>>>>> 2689e3f10ea1a78439bc326228a01aaa973f96c1
+
